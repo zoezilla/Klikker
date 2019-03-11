@@ -1,5 +1,3 @@
-package Rühmatöö;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.lang.String;
