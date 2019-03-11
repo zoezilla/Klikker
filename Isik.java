@@ -1,5 +1,3 @@
-package Rühmatöö;
-
 public class Isik {
 
     private String nimi;
